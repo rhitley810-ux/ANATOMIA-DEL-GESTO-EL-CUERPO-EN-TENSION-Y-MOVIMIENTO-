@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202611151743134NQGUY</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261115174313GQOPIU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ANATOMIA DEL GESTO: EL CUERPO EN TENSIÓN Y MOVIMIENTO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ROBERTO HITA LEYVA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Del dibujo estático al dibujo vivo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794948862882</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mwhyxckd-vuivvl7e1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ANATOMIA DEL GESTO: EL CUERPO EN TENSIÓN Y MOVIMIENTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ANATOMIA DEL GESTO: EL CUERPO EN TENSIÓN Y MOVIMIENTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ANATOMIA DEL GESTO: EL CUERPO EN TENSIÓN Y MOVIMIENTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ANATOMIA DEL GESTO: EL CUERPO EN TENSIÓN Y MOVIMIENTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhyxckd-vuivvl7e1</odePageId>
+      <odeBlockId>block-mwhz1php-9jky4vbqi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhyxckd-vuivvl7e1</odePageId>
+          <odeBlockId>block-mwhz1php-9jky4vbqi</odeBlockId>
+          <odeIdeviceId>idevice-1794755436108-faqs1ymla</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Alguna vez has intentado dibujar a alguien tumbado hacia ti o saltando y te ha parecido imposible?<br />En esta Situación de Aprendizaje vas a dar el salto definitivo del dibujo estático al dibujo vivo. A lo largo de 10 sesiones entrenarás tu ojo y tu mano para capturar el movimiento real, la tensión muscular y la perspectiva extrema del cuerpo humano (el escorzo).Producto final: Un cuaderno de apuntes del natural y una obra artística en gran formato (100 × 70 cm) con técnica mixta para la exposición de taller.<br />Nivel: Dibujo Artístico II (2.º de Bachillerato de Artes – Andalucía).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794755436108-faqs1ymla","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Alguna vez has intentado dibujar a alguien tumbado hacia ti o saltando y te ha parecido imposible?<br />En esta Situación de Aprendizaje vas a dar el salto definitivo del dibujo estático al dibujo vivo. A lo largo de 10 sesiones entrenarás tu ojo y tu mano para capturar el movimiento real, la tensión muscular y la perspectiva extrema del cuerpo humano (el escorzo).Producto final: Un cuaderno de apuntes del natural y una obra artística en gran formato (100 × 70 cm) con técnica mixta para la exposición de taller.<br />Nivel: Dibujo Artístico II (2.º de Bachillerato de Artes – Andalucía).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhzc5gq-nt9aor78o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> El reto: El cuerpo en tensión</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> El reto: El cuerpo en tensión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> El reto: El cuerpo en tensión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhzc5gq-nt9aor78o</odePageId>
+      <odeBlockId>block-mwhzcxc6-s1rz2ft9j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhzc5gq-nt9aor78o</odePageId>
+          <odeBlockId>block-mwhzcxc6-s1rz2ft9j</odeBlockId>
+          <odeIdeviceId>idevice-1794755959493-dt9m1jfci</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>TAREA:</p>
+<p>10 sesiones (600 min)</p>
+<p>Tu misión: Convertirte en cronista visual del movimiento humano. Prepararás una pieza de gran formato que formará parte de la muestra colectiva Anatomía del gesto en el aula-taller.<br />Fases del desafío:Investigar: Analizar cómo maestros desde el Renacimiento hasta hoy han resuelto poses imposibles.<br />Entrenar: Realizar sesiones de apuntes rápidos del natural (2, 5 y 15 minutos).<br />Experimentar: Probar soportes alternativos y técnicas mixtas.<br /> <br /> Crear y defender: Ejecutar tu obra de 100 × 70 cm y explicar tu proceso creativo ante el grupo.</p>
+<p></p>
+<p><br /></p>
+<p><br /></p>
+<p> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794755959493-dt9m1jfci","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>TAREA:</p>\n<p>10 sesiones (600 min)</p>\n<p>Tu misión: Convertirte en cronista visual del movimiento humano. Prepararás una pieza de gran formato que formará parte de la muestra colectiva Anatomía del gesto en el aula-taller.<br />Fases del desafío:Investigar: Analizar cómo maestros desde el Renacimiento hasta hoy han resuelto poses imposibles.<br />Entrenar: Realizar sesiones de apuntes rápidos del natural (2, 5 y 15 minutos).<br />Experimentar: Probar soportes alternativos y técnicas mixtas.<br /> <br /> Crear y defender: Ejecutar tu obra de 100 × 70 cm y explicar tu proceso creativo ante el grupo.</p>\n<p></p>\n<p><br /></p>\n<p><br /></p>\n<p> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhzhako-hxhn58sti</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>  Referentes y anatomía</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>  Referentes y anatomía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>  Referentes y anatomía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhzhrys-4s8xe5yl1</odePageId>
+  <odeParentPageId>page-mwhzhako-hxhn58sti</odeParentPageId>
+  <pageName> Del canon clásico al escorzo</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Del canon clásico al escorzo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Del canon clásico al escorzo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhzhrys-4s8xe5yl1</odePageId>
+      <odeBlockId>block-mwhzi9x9-kmpatbqav</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhzhrys-4s8xe5yl1</odePageId>
+          <odeBlockId>block-mwhzi9x9-kmpatbqav</odeBlockId>
+          <odeIdeviceId>idevice-1794756209083-tjlh2hlpz</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1794756209083-tjlh2hlpz" title="" href="{{context_path}}/content/resources/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWNjNTc3MTljMjMxYi5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.8Nkj0dNzOzzuwY_WfsU8fiDIs4AyPFQ1uGrkdupofYY.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWNjNTc3MTljMjMxYi5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.8Nkj0dNzOzzuwY_WfsU8fiDIs4AyPFQ1uGrkdupofYY.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1794756209083-tjlh2hlpz" title="" href="{{context_path}}/content/resources/338650_jenny-saville-painting.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/338650_jenny-saville-painting.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1794756209083-tjlh2hlpz" title="" href="{{context_path}}/content/resources/Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1794756209083-tjlh2hlpz" title="" href="{{context_path}}/content/resources/Selbstbildnis_Egon_Schiele.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Selbstbildnis_Egon_Schiele.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794756209083-tjlh2hlpz","img_0":{"img":"{{context_path}}/content/resources/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWNjNTc3MTljMjMxYi5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.8Nkj0dNzOzzuwY_WfsU8fiDIs4AyPFQ1uGrkdupofYY.webp","thumbnail":"{{context_path}}/content/resources/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWNjNTc3MTljMjMxYi5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.8Nkj0dNzOzzuwY_WfsU8fiDIs4AyPFQ1uGrkdupofYY.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/338650_jenny-saville-painting.jpg","thumbnail":"{{context_path}}/content/resources/338650_jenny-saville-painting.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg","thumbnail":"{{context_path}}/content/resources/Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/Selbstbildnis_Egon_Schiele.jpg","thumbnail":"{{context_path}}/content/resources/Selbstbildnis_Egon_Schiele.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwhzhrys-4s8xe5yl1</odePageId>
+      <odeBlockId>block-mwhzrdi3-qsrhu0z3z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhzhrys-4s8xe5yl1</odePageId>
+          <odeBlockId>block-mwhzrdi3-qsrhu0z3z</odeBlockId>
+          <odeIdeviceId>idevice-1794756633625-mnr02nyla</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Observa las 4 obras de la galería y responde: ¿Qué recurso utiliza cada artista para transmitir tensión o profundidad?</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>- Andrea Mantegna: Usa un punto de vista muy bajo y una deformación perspectiva radical (escorzo) donde los pies ocupan el primer plano.</p>
+<p><br />- Edgar Degas: Captura el instante fugaz del esfuerzo físico mediante encuadres fotográficos descentrados y trazos de pastel superpuestos.</p>
+<p><br />- Egon Schiele: Rompe las proporciones académicas mediante una línea angulosa y nerviosa que expresa tensión psicológica.</p>
+<p><br />- Jenny Saville: Trabaja la monumentalidad de la carne, la gravedad y la pincelada gestual en gran formato. <br /> </p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p> </p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794756633625-mnr02nyla","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Observa las 4 obras de la galería y responde: ¿Qué recurso utiliza cada artista para transmitir tensión o profundidad?</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>- Andrea Mantegna: Usa un punto de vista muy bajo y una deformación perspectiva radical (escorzo) donde los pies ocupan el primer plano.</p>\n<p><br />- Edgar Degas: Captura el instante fugaz del esfuerzo físico mediante encuadres fotográficos descentrados y trazos de pastel superpuestos.</p>\n<p><br />- Egon Schiele: Rompe las proporciones académicas mediante una línea angulosa y nerviosa que expresa tensión psicológica.</p>\n<p><br />- Jenny Saville: Trabaja la monumentalidad de la carne, la gravedad y la pincelada gestual en gran formato. <br /> </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p> </p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>- Andrea Mantegna: Usa un punto de vista muy bajo y una deformación perspectiva radical (escorzo) donde los pies ocupan el primer plano.</p>\n<p><br />- Edgar Degas: Captura el instante fugaz del esfuerzo físico mediante encuadres fotográficos descentrados y trazos de pastel superpuestos.</p>\n<p><br />- Egon Schiele: Rompe las proporciones académicas mediante una línea angulosa y nerviosa que expresa tensión psicológica.</p>\n<p><br />- Jenny Saville: Trabaja la monumentalidad de la carne, la gravedad y la pincelada gestual en gran formato. <br /> </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhzwefe-2g8c8086h</odePageId>
+  <odeParentPageId>page-mwhzhako-hxhn58sti</odeParentPageId>
+  <pageName>Ejes, equilibrio y anatomía artística</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ejes, equilibrio y anatomía artística</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ejes, equilibrio y anatomía artística</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhzwefe-2g8c8086h</odePageId>
+      <odeBlockId>block-mwhzyn4z-75grxzofu</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhzwefe-2g8c8086h</odePageId>
+          <odeBlockId>block-mwhzyn4z-75grxzofu</odeBlockId>
+          <odeIdeviceId>idevice-1794756972705-15d1odbbr</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1794756972705-15d1odbbr" title="" href="{{context_path}}/content/resources/pngtree-full-body-action-shot-of-a-runner-in-motion-png-image_20060098.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/pngtree-full-body-action-shot-of-a-runner-in-motion-png-image_20060098.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794756972705-15d1odbbr","img_0":{"img":"{{context_path}}/content/resources/pngtree-full-body-action-shot-of-a-runner-in-motion-png-image_20060098.png","thumbnail":"{{context_path}}/content/resources/pngtree-full-body-action-shot-of-a-runner-in-motion-png-image_20060098.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwhzwefe-2g8c8086h</odePageId>
+      <odeBlockId>block-mwi01ee5-q9vyx2bym</odeBlockId>
+      <blockName>Lista desordenada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhzwefe-2g8c8086h</odePageId>
+          <odeBlockId>block-mwi01ee5-q9vyx2bym</odeBlockId>
+          <odeIdeviceId>idevice-1794757101340-0qh3coluu</odeIdeviceId>
+          <odeIdeviceTypeName>scrambled-list</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-sortableList" id="slidevice-1794757101340-0qh3coluu" scorm=false>
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1794757101340-0qh3coluu" data-evaluationb="false" data-evaluationid="78e2663c-daae-4ff0-a63f-503b9233b909"></div>
+    <div class="exe-sortableList-instructions"><p>Ordena los siguientes textos correctamente para completar la actividad.</p>
+<p>Antes de dibujar músculos o ropa, dibuja la estructura invisible:</p>
+<p>Línea de acción: Una única curva que resume la dirección principal del movimiento desde la cabeza hasta el pie de apoyo.</p>
+<p><br />Eje de hombros y eje de caderas: Cuando el cuerpo apoya el peso en una pierna (contrapposto), ambos ejes se inclinan en direcciones opuestas para mantener el equilibrio.</p>
+<p><br />Centro de gravedad: La vertical que cae desde la base del cuello debe caer dentro de la base de sustentación (los pies) para que la figura no parezca caerse.</p>
+<p><br /></p>
+<p><br /></p>
+<p> </p>
+<p> </p></div>
+    <ul class="exe-sortableList-list"><li data-orig-index="0">Línea de acción: Una única curva que resume la dirección principal del movimiento desde la cabeza hasta el pie de apoyo.</li><li data-orig-index="1">Eje de hombros y eje de caderas: Cuando el cuerpo apoya el peso en una pierna (contrapposto), ambos ejes se inclinan en direcciones opuestas para mantener el equilibrio.</li><li data-orig-index="2">Centro de gravedad: La vertical que cae desde la base del cuello debe caer dentro de la base de sustentación (los pies) para que la figura no parezca caerse.</li></ul>
+    <div style="display:none">
+        <p class="exe-sortableList-buttonText">Comprobar</p>
+        <p class="exe-sortableList-rightText">¡Correcto!</p>
+        <p class="exe-sortableList-wrongText">No es correcto... La respuesta correcta es:</p>
+    </div>
+    <div class="exe-scorm-message"></div>
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"ScrambledList","instructions":"<p>Ordena los siguientes textos correctamente para completar la actividad.</p>\n<p>Antes de dibujar músculos o ropa, dibuja la estructura invisible:</p>\n<p>Línea de acción: Una única curva que resume la dirección principal del movimiento desde la cabeza hasta el pie de apoyo.</p>\n<p><br />Eje de hombros y eje de caderas: Cuando el cuerpo apoya el peso en una pierna (contrapposto), ambos ejes se inclinan en direcciones opuestas para mantener el equilibrio.</p>\n<p><br />Centro de gravedad: La vertical que cae desde la base del cuello debe caer dentro de la base de sustentación (los pies) para que la figura no parezca caerse.</p>\n<p><br /></p>\n<p><br /></p>\n<p> </p>\n<p> </p>","textAfter":"","afterElement":"","options":["Línea de acción: Una única curva que resume la dirección principal del movimiento desde la cabeza hasta el pie de apoyo.","Eje de hombros y eje de caderas: Cuando el cuerpo apoya el peso en una pierna (contrapposto), ambos ejes se inclinan en direcciones opuestas para mantener el equilibrio.","Centro de gravedad: La vertical que cae desde la base del cuello debe caer dentro de la base de sustentación (los pies) para que la figura no parezca caerse."],"time":0,"buttonText":"Comprobar","rightText":"¡Correcto!","wrongText":"No es correcto... La respuesta correcta es:","isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"78e2663c-daae-4ff0-a63f-503b9233b909","passScoreMode":"global","passScoreCustom":5,"main":"slidevice-1794757101340-0qh3coluu","msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Su puntuación","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Lista desordenada","msgStartGame":"Pulsa aquí para empezar","msgSubmit":"Enviar","msgPlayStart":"Pulsa aquí para jugar","msgTime":"Tiempo por pregunta","msgCheck":"Comprobar","msgSaveScore":"Guardar la puntuación","msgTestFailed":"No has superado la prueba. Inténtalo de nuevo","msgRetryAttempts":"Has cometido %s errores. Te quedan %s intentos. ¿Quieres intentarlo de nuevo?"},"scorerp":0,"idevice":"idevice_node","showSolutions":true,"attemptsNumber":1,"id":"idevice-1794757101340-0qh3coluu"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwi07g1y-0jzmd0v6c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> Taller de dibujo del natural</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Taller de dibujo del natural</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Taller de dibujo del natural</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwi07zee-q5c35zkh0</odePageId>
+  <odeParentPageId>page-mwi07g1y-0jzmd0v6c</odeParentPageId>
+  <pageName> Maratón de poses rápidas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Maratón de poses rápidas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Maratón de poses rápidas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwi07zee-q5c35zkh0</odePageId>
+      <odeBlockId>block-mwi09mg1-wzfpiza2h</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwi07zee-q5c35zkh0</odePageId>
+          <odeBlockId>block-mwi09mg1-wzfpiza2h</odeBlockId>
+          <odeIdeviceId>idevice-1794757485023-q5hyap119</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dinámica de aula (Sesiones 3 y 4): Realizaremos posados rotatorios en el aula. Guarda la goma de borrar: aquí importa la fluidez, no el detalle.</p>
+<p>Bloque A (5 apuntes × 2 min): Línea continua sin levantar el lápiz o rotulador del papel. Busca el ritmo general.Bloque B (4 apuntes × 5 min): Encaje geométrico mediante bloques (caja torácica, pelvis y cilindros para las extremidades).<br />Bloque C (3 apuntes × 15 min): Incorpora la mancha tonal (barra de grafito tumbada o nogalina) para separar planos de luz y sombra.</p>
+<p><br />Apoyo DUA: Si necesitas visualizar la estructura antes de dibujar, utiliza los maniquíes articulados de madera del taller o la app Magic Poser en las tabletas de clase.</p>
+<p><br /></p>
+<p><br /></p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794757485023-q5hyap119","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dinámica de aula (Sesiones 3 y 4): Realizaremos posados rotatorios en el aula. Guarda la goma de borrar: aquí importa la fluidez, no el detalle.</p>\n<p>Bloque A (5 apuntes × 2 min): Línea continua sin levantar el lápiz o rotulador del papel. Busca el ritmo general.Bloque B (4 apuntes × 5 min): Encaje geométrico mediante bloques (caja torácica, pelvis y cilindros para las extremidades).<br />Bloque C (3 apuntes × 15 min): Incorpora la mancha tonal (barra de grafito tumbada o nogalina) para separar planos de luz y sombra.</p>\n<p><br />Apoyo DUA: Si necesitas visualizar la estructura antes de dibujar, utiliza los maniquíes articulados de madera del taller o la app Magic Poser en las tabletas de clase.</p>\n<p><br /></p>\n<p><br /></p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwi0dshq-2kho3q7vx</odePageId>
+  <odeParentPageId>page-mwi07g1y-0jzmd0v6c</odeParentPageId>
+  <pageName>El reto del escorzo extremo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El reto del escorzo extremo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El reto del escorzo extremo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwi0dshq-2kho3q7vx</odePageId>
+      <odeBlockId>block-mwi0eaiz-a2h95ofj4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwi0dshq-2kho3q7vx</odePageId>
+          <odeBlockId>block-mwi0eaiz-a2h95ofj4</odeBlockId>
+          <odeIdeviceId>idevice-1794757702857-k6x0ktwg5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Claves para sobrevivir al escorzo (Sesión 5):Dibuja lo que ves, no lo que sabes: Un brazo apuntando hacia ti mide visualmente mucho menos que su longitud real. Mide con el lápiz por comparación.<br />Busca la superposición (solapamiento): En un escorzo, unas formas tapan a otras (la mano tapa el antebrazo, el antebrazo tapa el hombro). Marca con claridad qué plano está delante.<br />Aumenta el contraste en el primer plano: Los trazos más gruesos y las sombras más intensas deben situarse en la zona más cercana al espectador para generar profundidad. <br /> </p>
+<p><br /></p>
+<p><br /></p>
+<p><br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794757702857-k6x0ktwg5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Claves para sobrevivir al escorzo (Sesión 5):Dibuja lo que ves, no lo que sabes: Un brazo apuntando hacia ti mide visualmente mucho menos que su longitud real. Mide con el lápiz por comparación.<br />Busca la superposición (solapamiento): En un escorzo, unas formas tapan a otras (la mano tapa el antebrazo, el antebrazo tapa el hombro). Marca con claridad qué plano está delante.<br />Aumenta el contraste en el primer plano: Los trazos más gruesos y las sombras más intensas deben situarse en la zona más cercana al espectador para generar profundidad. <br /> </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwi0gqod-33x7wlonf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> Laboratorio y obra final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Laboratorio y obra final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Laboratorio y obra final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwi0h7bw-29c9vsc6z</odePageId>
+  <odeParentPageId>page-mwi0gqod-33x7wlonf</odeParentPageId>
+  <pageName>  Experimentación técnica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>  Experimentación técnica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>  Experimentación técnica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwi0h7bw-29c9vsc6z</odePageId>
+      <odeBlockId>block-mwi0hl0g-8uwnj8oui</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwi0h7bw-29c9vsc6z</odePageId>
+          <odeBlockId>block-mwi0hl0g-8uwnj8oui</odeBlockId>
+          <odeIdeviceId>idevice-1794757856415-cqiqpujqh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Sesiones 6 y 7 — Pruebas de taller: Antes de enfrentarte al formato grande, realiza al menos 3 pruebas de mancha y línea en tu cuaderno combinando:</p>
+<p>Soportes: Papel kraft, cartón reciclado, papel Canson tonado (gris o tierra) o papel de acuarela imprimado. <br /> </p>
+<p>Técnicas: Carboncillo y creta blanca, tinta china aplicada con caña o pincel seco, pastel graso o acrílico muy aguado.<br />Bocetos compositivos: Entrega 2 bocetos en formato A4 de tu propuesta definitiva probando el encuadre y el contraste tonal.</p>
+<p><br /></p>
+<p><br /></p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794757856415-cqiqpujqh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Sesiones 6 y 7 — Pruebas de taller: Antes de enfrentarte al formato grande, realiza al menos 3 pruebas de mancha y línea en tu cuaderno combinando:</p>\n<p>Soportes: Papel kraft, cartón reciclado, papel Canson tonado (gris o tierra) o papel de acuarela imprimado. <br /> </p>\n<p>Técnicas: Carboncillo y creta blanca, tinta china aplicada con caña o pincel seco, pastel graso o acrílico muy aguado.<br />Bocetos compositivos: Entrega 2 bocetos en formato A4 de tu propuesta definitiva probando el encuadre y el contraste tonal.</p>\n<p><br /></p>\n<p><br /></p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwi0jcq0-0sjyk6tfb</odePageId>
+  <odeParentPageId>page-mwi0gqod-33x7wlonf</odeParentPageId>
+  <pageName>Proyecto de gran formato (100 × 70 cm)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto de gran formato (100 × 70 cm)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto de gran formato (100 × 70 cm)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwi0jcq0-0sjyk6tfb</odePageId>
+      <odeBlockId>block-mwi0jtc5-4jwcveuog</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwi0jcq0-0sjyk6tfb</odePageId>
+          <odeBlockId>block-mwi0jtc5-4jwcveuog</odeBlockId>
+          <odeIdeviceId>idevice-1794757960516-c1rdopbs3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Sesiones 8 y 9 — Ejecución definitiva:Formato: 100 × 70 cm.<br />Requisitos: Debe representar al menos una figura humana completa o de tres cuartos en actitud dinámica o escorzo marcado, integrando el lenguaje expresivo de alguno de los referentes estudiados.<br />Fases: 1. Encaje estructural suave → 2. Bloqueo de grandes masas tonales → 3. Definición de líneas de tensión y luces máximas → 4. Fijado y firma.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794757960516-c1rdopbs3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Sesiones 8 y 9 — Ejecución definitiva:Formato: 100 × 70 cm.<br />Requisitos: Debe representar al menos una figura humana completa o de tres cuartos en actitud dinámica o escorzo marcado, integrando el lenguaje expresivo de alguno de los referentes estudiados.<br />Fases: 1. Encaje estructural suave → 2. Bloqueo de grandes masas tonales → 3. Definición de líneas de tensión y luces máximas → 4. Fijado y firma.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwi0nhvc-v90gdo3rk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> Exposición y evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Exposición y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Exposición y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwi0oe00-ulysx7i6o</odePageId>
+  <odeParentPageId>page-mwi0nhvc-v90gdo3rk</odeParentPageId>
+  <pageName> Exposición y evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Exposición y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Exposición y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwi0oe00-ulysx7i6o</odePageId>
+      <odeBlockId>block-mwi0tvit-xeifhn5il</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwi0oe00-ulysx7i6o</odePageId>
+          <odeBlockId>block-mwi0tvit-xeifhn5il</odeBlockId>
+          <odeIdeviceId>idevice-1794758429907-v4idy200g</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden" data-id="idevice-1794758429907-v4idy200g" data-evaluationid="78e2663c-daae-4ff0-a63f-503b9233b909" data-evaluationb="false">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1794758429907-v4idy200g%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20importada%22%2C%22categories%22%3A%5B%221.%20Estructura%2C%20proporci%F3n%20y%20escorzo%20%28CE.DA.3%20%u2014%20Criterio%203.1%29%20Peso%3A%2030%20%25%22%2C%222.%20S%EDntesis%20y%20gesto%20en%20el%20apunte%20%28CE.DA.4%20%u2014%20Criterio%204.1%29%20Peso%3A%2025%20%25%22%2C%223.%20T%E9cnica%20gr%E1fica%20y%20referentes%20%28CE.DA.4%20y%20CE.DA.6%20%u2014%20Criterios%204.1%20y%206.1%29%20Peso%3A%2025%20%25%22%2C%224.%20Proceso%20creativo%20y%20defensa%20oral%20%28CE.DA.9%20%u2014%20Criterio%209.1%29%20Peso%3A%2020%20%25%22%5D%2C%22scores%22%3A%5B%22Nivel%204%3A%20Sobresaliente%20%289%u201310%29%22%2C%22Nivel%203%3A%20Notable%20%287%u20138%29%22%2C%22Nivel%202%3A%20Bien%20/%20Suficiente%20%285%u20136%29%22%2C%22Nivel%201%3A%20Insuficiente%20%281%u20134%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Encaja%20la%20figura%20humana%20con%20total%20precisi%F3n%20anat%F3mica.%20Resuelve%20el%20centro%20de%20gravedad%2C%20los%20ejes%20de%20hombros%20y%20caderas%20y%20el%20escorzo%20extremo%20con%20gran%20solvencia%20espacial.tor%20%281.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Respeta%20las%20proporciones%20generales%20y%20el%20equilibrio%20din%E1mico.%20Presenta%20ligeros%20desajustes%20perspectivos%20en%20las%20zonas%20m%E1s%20complejas%20del%20escorzo.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Mantiene%20la%20proporci%F3n%20b%E1sica%20en%20poses%20frontales%20o%20poco%20forzadas%2C%20pero%20muestra%20rigidez%20o%20errores%20visibles%20en%20la%20deformaci%F3n%20del%20escorzo.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Desproporci%F3n%20generalizada%20en%20toda%20la%20figura.%20No%20aplica%20ejes%20estructurales%20ni%20comprende%20la%20articulaci%F3n%20y%20el%20equilibrio%20b%E1sico%20del%20cuerpo.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Capta%20el%20movimiento%2C%20el%20ritmo%20y%20la%20tensi%F3n%20muscular%20en%20apuntes%20r%E1pidos%20%282%2C%205%20y%2015%20min%29%20con%20gran%20soltura%2C%20fluidez%20y%20econom%EDa%20de%20medios.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Transmite%20el%20dinamismo%20en%20la%20mayor%EDa%20de%20los%20apuntes%20del%20natural%20con%20buen%20ritmo%20de%20l%EDnea%20y%20s%EDntesis%20formal%20adecuada.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Los%20apuntes%20resultan%20excesivamente%20descriptivos%2C%20lentos%20o%20r%EDgidos%3B%20tiene%20dificultad%20para%20sintetizar%20la%20pose%20en%20tiempos%20cortos.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Trazos%20entrecortados%20y%20falta%20de%20observaci%F3n%20directa%20del%20natural.%20No%20completa%20el%20n%FAmero%20m%EDnimo%20de%20apuntes%20requeridos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Domina%20la%20t%E9cnica%20mixta%20sobre%20el%20formato%20100%20%D7%2070%20cm.%20Logra%20gran%20riqueza%20tonal%20y%20lineal%2C%20integrando%20referentes%20art%EDsticos%20con%20un%20estilo%20personal.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Aplica%20correctamente%20los%20materiales%20y%20soportes%20experimentales.%20Muestra%20coherencia%20entre%20los%20recursos%20gr%E1ficos%20elegidos%20y%20su%20intenci%F3n%20expresiva.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Uso%20correcto%20pero%20convencional%20de%20los%20materiales.%20Escasa%20valoraci%F3n%20tonal%2C%20poco%20contraste%20en%20el%20primer%20plano%20o%20d%E9bil%20conexi%F3n%20con%20los%20referentes.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Ejecuci%F3n%20descuidada%2C%20falta%20de%20control%20t%E9cnico%20sobre%20el%20soporte%20elegido%20y%20ausencia%20de%20referentes%20art%EDsticos%20en%20la%20propuesta.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Documenta%20todas%20las%20fases%20en%20su%20cuaderno%20%28pruebas%20de%20material%20y%20bocetos%20A4%29%20con%20rigor.%20Expone%20su%20obra%20en%20el%20taller%20usando%20vocabulario%20t%E9cnico%20preciso.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Presenta%20bocetos%20previos%20adecuados%20y%20pruebas%20de%20taller%20completas.%20Justifica%20sus%20decisiones%20pl%E1sticas%20de%20forma%20clara%20y%20ordenada%20en%20la%20cr%EDtica%20grupal.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Entrega%20bocetos%20incompletos%20o%20poco%20elaborados.%20Realiza%20una%20exposici%F3n%20oral%20superficial%20sin%20profundizar%20en%20las%20dificultades%20resueltas.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20entrega%20el%20cuaderno%20de%20proceso%20ni%20los%20bocetos%20previos%2C%20o%20no%20participa%20en%20la%20exposici%F3n%20y%20defensa%20final%20del%20taller.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20importada%22%2C%22categories%22%3A%5B%221.%20Estructura%2C%20proporci%F3n%20y%20escorzo%20%28CE.DA.3%20%u2014%20Criterio%203.1%29%20Peso%3A%2030%20%25%22%2C%222.%20S%EDntesis%20y%20gesto%20en%20el%20apunte%20%28CE.DA.4%20%u2014%20Criterio%204.1%29%20Peso%3A%2025%20%25%22%2C%223.%20T%E9cnica%20gr%E1fica%20y%20referentes%20%28CE.DA.4%20y%20CE.DA.6%20%u2014%20Criterios%204.1%20y%206.1%29%20Peso%3A%2025%20%25%22%2C%224.%20Proceso%20creativo%20y%20defensa%20oral%20%28CE.DA.9%20%u2014%20Criterio%209.1%29%20Peso%3A%2020%20%25%22%5D%2C%22scores%22%3A%5B%22Nivel%204%3A%20Sobresaliente%20%289%u201310%29%22%2C%22Nivel%203%3A%20Notable%20%287%u20138%29%22%2C%22Nivel%202%3A%20Bien%20/%20Suficiente%20%285%u20136%29%22%2C%22Nivel%201%3A%20Insuficiente%20%281%u20134%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Encaja%20la%20figura%20humana%20con%20total%20precisi%F3n%20anat%F3mica.%20Resuelve%20el%20centro%20de%20gravedad%2C%20los%20ejes%20de%20hombros%20y%20caderas%20y%20el%20escorzo%20extremo%20con%20gran%20solvencia%20espacial.tor%20%281.1%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Respeta%20las%20proporciones%20generales%20y%20el%20equilibrio%20din%E1mico.%20Presenta%20ligeros%20desajustes%20perspectivos%20en%20las%20zonas%20m%E1s%20complejas%20del%20escorzo.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Mantiene%20la%20proporci%F3n%20b%E1sica%20en%20poses%20frontales%20o%20poco%20forzadas%2C%20pero%20muestra%20rigidez%20o%20errores%20visibles%20en%20la%20deformaci%F3n%20del%20escorzo.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Desproporci%F3n%20generalizada%20en%20toda%20la%20figura.%20No%20aplica%20ejes%20estructurales%20ni%20comprende%20la%20articulaci%F3n%20y%20el%20equilibrio%20b%E1sico%20del%20cuerpo.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Capta%20el%20movimiento%2C%20el%20ritmo%20y%20la%20tensi%F3n%20muscular%20en%20apuntes%20r%E1pidos%20%282%2C%205%20y%2015%20min%29%20con%20gran%20soltura%2C%20fluidez%20y%20econom%EDa%20de%20medios.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Transmite%20el%20dinamismo%20en%20la%20mayor%EDa%20de%20los%20apuntes%20del%20natural%20con%20buen%20ritmo%20de%20l%EDnea%20y%20s%EDntesis%20formal%20adecuada.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Los%20apuntes%20resultan%20excesivamente%20descriptivos%2C%20lentos%20o%20r%EDgidos%3B%20tiene%20dificultad%20para%20sintetizar%20la%20pose%20en%20tiempos%20cortos.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Trazos%20entrecortados%20y%20falta%20de%20observaci%F3n%20directa%20del%20natural.%20No%20completa%20el%20n%FAmero%20m%EDnimo%20de%20apuntes%20requeridos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Domina%20la%20t%E9cnica%20mixta%20sobre%20el%20formato%20100%20%D7%2070%20cm.%20Logra%20gran%20riqueza%20tonal%20y%20lineal%2C%20integrando%20referentes%20art%EDsticos%20con%20un%20estilo%20personal.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Aplica%20correctamente%20los%20materiales%20y%20soportes%20experimentales.%20Muestra%20coherencia%20entre%20los%20recursos%20gr%E1ficos%20elegidos%20y%20su%20intenci%F3n%20expresiva.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Uso%20correcto%20pero%20convencional%20de%20los%20materiales.%20Escasa%20valoraci%F3n%20tonal%2C%20poco%20contraste%20en%20el%20primer%20plano%20o%20d%E9bil%20conexi%F3n%20con%20los%20referentes.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Ejecuci%F3n%20descuidada%2C%20falta%20de%20control%20t%E9cnico%20sobre%20el%20soporte%20elegido%20y%20ausencia%20de%20referentes%20art%EDsticos%20en%20la%20propuesta.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Documenta%20todas%20las%20fases%20en%20su%20cuaderno%20%28pruebas%20de%20material%20y%20bocetos%20A4%29%20con%20rigor.%20Expone%20su%20obra%20en%20el%20taller%20usando%20vocabulario%20t%E9cnico%20preciso.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Presenta%20bocetos%20previos%20adecuados%20y%20pruebas%20de%20taller%20completas.%20Justifica%20sus%20decisiones%20pl%E1sticas%20de%20forma%20clara%20y%20ordenada%20en%20la%20cr%EDtica%20grupal.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Entrega%20bocetos%20incompletos%20o%20poco%20elaborados.%20Realiza%20una%20exposici%F3n%20oral%20superficial%20sin%20profundizar%20en%20las%20dificultades%20resueltas.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20entrega%20el%20cuaderno%20de%20proceso%20ni%20los%20bocetos%20previos%2C%20o%20no%20participa%20en%20la%20exposici%F3n%20y%20defensa%20final%20del%20taller.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgTypeGame%22%3A%22R%FAbrica%22%2C%22msgUncompletedActivity%22%3A%22Actividad%20no%20completada%22%2C%22msgSuccessfulActivity%22%3A%22Actividad%20superada.%20Puntuaci%F3n%3A%20%25s%22%2C%22msgUnsuccessfulActivity%22%3A%22Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s%22%2C%22msgPassScore%22%3A%22Puntuaci%F3n%20m%EDnima%20necesaria%20para%20aprobar%20esta%20actividad%3A%20%25s%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A2%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%2C%22passScoreMode%22%3A%22global%22%2C%22passScoreCustom%22%3A5%2C%22evaluation%22%3Afalse%2C%22evaluationID%22%3A%2278e2663c-daae-4ff0-a63f-503b9233b909%22%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgTypeGame">Rúbrica</li><li class="msgUncompletedActivity">Actividad no completada</li><li class="msgSuccessfulActivity">Actividad superada. Puntuación: %s</li><li class="msgUnsuccessfulActivity">Actividad no superada. Puntuación: %s</li><li class="msgPassScore">Puntuación mínima necesaria para aprobar esta actividad: %s</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
